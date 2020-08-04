@@ -1,4 +1,3 @@
 [submodule "lib/rise"]
 	path = lib/rise
 	url = https://github.com/piet-adick/rise.git
-	branch = master
